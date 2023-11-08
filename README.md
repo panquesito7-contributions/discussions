@@ -1,3 +1,3 @@
 # Discussions
 
-Repository for discussing anything related to this organization.\
+Repository for discussing anything related to this organization.
